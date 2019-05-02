@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
             message = extras.getString("message");
             enviarformulario();
         } else {
-            finish();
+            //finish();
         }
     }
 
